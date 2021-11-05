@@ -1,0 +1,13 @@
+# Federation service provided by StellarID.io
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://stellarid.io/federation/"
+
+ACCOUNTS=["GCNR7XJLWM5ELQUZUK3P7ME3RPYAEIB342Q7VUK4UAT265NFOD7SK3UO"]
+
+[DOCUMENTATION]
+ORG_NAME="Sergio Vergara"
+ORG_URL="https://github.com/sergvergara/one"
+
+ORG_KEYBASE="sergvergara"
+
+SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
